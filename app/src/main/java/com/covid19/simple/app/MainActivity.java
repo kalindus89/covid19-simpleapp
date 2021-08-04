@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     DataAdapter dataAdapter;
     private ShimmerFrameLayout shimmerFrameLayout_simple;
 
+    //fetched data using corona.lmao.ninja
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
